@@ -1,4 +1,7 @@
 # AI_moral_story_generator_with_audio
+
+https://e7a2ab033c8c2015ea.gradio.live/
+
 AI Moral Story Generator with Audio is an NLP-based project that generates short moral stories and converts them into speech using TTS. It creates engaging, educational, and creative stories for children and learners. Supports theme-based customization, natural narration, and future multilingual expansion. 📖 AI Moral Story Generator with Audio 📌 Overview
 
 The AI Moral Story Generator with Audio is an NLP-based project that automatically creates short moral stories and converts them into natural-sounding speech using Text-to-Speech (TTS). It is designed for children, learners, and educators to make storytelling engaging, fun, and educational.
