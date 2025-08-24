@@ -1,4 +1,4 @@
-# AI_moral_story_generator_with_audio
+# AI_moral_voice_storyteller
 
 https://e7a2ab033c8c2015ea.gradio.live/
 
